@@ -4,7 +4,7 @@
   "description": "Python essential extensions for visual studio code",
   "icon": "img/essentials.png",
   "galleryBanner": {
-    "color": "#53595e",
+    "color": "#212121",
     "theme": "dark"
   },
   "license": "LICENSE.md",
