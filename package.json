@@ -1,6 +1,6 @@
 {
   "name": "python3-essentials",
-  "displayName": "Python3-Essentials",
+  "displayName": "MS Python 3 - Essentials",
   "description": "Python essential extensions for visual studio code",
   "icon": "img/essentials.png",
   "galleryBanner": {
