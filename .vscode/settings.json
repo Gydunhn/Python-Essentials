@@ -1,0 +1,51 @@
+{
+  // VSCode Settings
+  "extensions.ignoreRecommendations": true,
+  "editor.fontLigatures": true,
+  "editor.stickyScroll.enabled": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.guides.highlightActiveBracketPair": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.indentation": true,
+  "editor.indentSize": 2,
+  "editor.tabCompletion": "on",
+  "editor.showDeprecated": true,
+  "editor.autoIndent": "full",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit",
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll": "explicit"
+  },
+  "editor.rulers": [
+    140
+  ],
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 140,
+  "editor.formatOnSave": true,
+  // Code & Formatter Settings
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "DotJoshJohnson.xml"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "markdownlint.config": {
+    "default": true,
+    "MD001": false,
+    "MD010": false,
+    "MD024": false,
+    "MD025": false
+  },
+}
