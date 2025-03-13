@@ -1,1 +1,29 @@
-# Python-Essentials
+# Python Essentials - Extension Pack for Visual Studio Code
+
+[![Badge for version for Visual Studio Code extension](https://flat.badgen.net/vs-marketplace/v/Gydunhn.python-essentials?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.python-essentials) [![Installs](https://flat.badgen.net/vs-marketplace/i/Gydunhn.python-essentials?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.python-essentials) [![Downloads](https://flat.badgen.net/vs-marketplace/d/Gydunhn.python-essentials?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.python-essentials) [![Rating](https://flat.badgen.net/vs-marketplace/rating/Gydunhn.python-essentials?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.python-essentials)
+
+This extension pack for Visual Studio Code adds extensions that are useful for Python projects. I reserve the right to update the extensions pack contents up to my own discretion. This extension is for my personal use, I think it's great if it works for other people too.
+
+## Reasons
+
+The **Python Essentials extension pack** was made to automate and standardize the installation phase of the essential Python extensions for Visual Studio Code every time a new member joins the team, or one of them restores a laptop, or exchanges it for a new one.
+
+See the [CHANGELOG](CHANGELOG.md) for the latest changes
+
+## Note
+
+The [VSC-Essentials] project was used as a template for this one.
+
+## Included
+
+This extension pack includes the following extensions:
+
+| Extension       | Stats                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pylint          | [![Badge for version for Visual Studio Code extension](https://flat.badgen.net/vs-marketplace/v/ms-python.pylint?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint) [![Installs](https://flat.badgen.net/vs-marketplace/i/ms-python.pylint?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint) [![Rating](https://flat.badgen.net/vs-marketplace/rating/ms-python.pylint?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint)                                                 |
+| Python          | [![Badge for version for Visual Studio Code extension](https://flat.badgen.net/vs-marketplace/v/ms-python.python?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.python) [![Installs](https://flat.badgen.net/vs-marketplace/i/ms-python.python?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.python) [![Rating](https://flat.badgen.net/vs-marketplace/rating/ms-python.python?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.python)                                                 |
+| Python Debugger | [![Badge for version for Visual Studio Code extension](https://flat.badgen.net/vs-marketplace/v/ms-python.debugpy?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) [![Installs](https://flat.badgen.net/vs-marketplace/i/ms-python.debugpy?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) [![Rating](https://flat.badgen.net/vs-marketplace/rating/ms-python.debugpy?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)                                           |
+| Pylance         | [![Badge for version for Visual Studio Code extension](https://flat.badgen.net/vs-marketplace/v/ms-python.vscode-pylance?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) [![Installs](https://flat.badgen.net/vs-marketplace/i/ms-python.vscode-pylance?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) [![Rating](https://flat.badgen.net/vs-marketplace/rating/ms-python.vscode-pylance?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) |
+| autopep8        | [![Badge for version for Visual Studio Code extension](https://flat.badgen.net/vs-marketplace/v/ms-python.autopep8?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8) [![Installs](https://flat.badgen.net/vs-marketplace/i/ms-python.autopep8?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8) [![Rating](https://flat.badgen.net/vs-marketplace/rating/ms-python.autopep8?color=blue)](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8)                                     |
+
+[VSC-Essentials]: https://github.com/Gydunhn/VSC-Essentials

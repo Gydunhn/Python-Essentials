@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "ms-python.pylint",
+    "ms-python.python",
+    "ms-python.debugpy",
+    "ms-python.vscode-pylance",
+    "ms-python.autopep8",
+    "Gydunhn.vsc-essentials",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "IBM.output-colorizer",
+    "usernamehw.errorlens",
+  ],
+  "unwantedRecommendations": [
+    "ms-edgedevtools.vscode-edge-devtools"
+  ]
+}
