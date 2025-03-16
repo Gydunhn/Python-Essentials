@@ -1,6 +1,6 @@
 {
   "name": "python3-essentials",
-  "displayName": "MS Python 3 - Essentials",
+  "displayName": "Python Essentials Extensions",
   "description": "Python essential extensions for visual studio code",
   "icon": "img/essentials.png",
   "galleryBanner": {
@@ -29,6 +29,9 @@
     "골자",
     "अत्यावश्यकम्",
     "ملزومات",
+    "PEP",
+    "PEP8",
+    "AutoPEP8",
     "Python",
     "PyCharm",
     "Jupiter",
@@ -37,7 +40,7 @@
     "Gydunhn",
     "Elite"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Gydunhn",
   "engines": {
     "vscode": "^1.35.0"
@@ -50,6 +53,7 @@
     "ms-python.python",
     "ms-python.debugpy",
     "ms-python.vscode-pylance",
-    "ms-python.autopep8"
+    "ms-python.autopep8",
+    "VisualStudioExptTeam.vscodeintellicode"
   ]
 }
