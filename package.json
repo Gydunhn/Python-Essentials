@@ -1,6 +1,6 @@
 {
   "name": "python3-essentials",
-  "displayName": "MS Python 3 - Essentials",
+  "displayName": "Python Essentials Extensions",
   "description": "Python essential extensions for visual studio code",
   "icon": "img/essentials.png",
   "galleryBanner": {
@@ -40,7 +40,7 @@
     "Gydunhn",
     "Elite"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Gydunhn",
   "engines": {
     "vscode": "^1.35.0"
