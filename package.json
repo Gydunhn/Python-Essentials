@@ -40,7 +40,7 @@
     "Gydunhn",
     "Elite"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "Gydunhn",
   "engines": {
     "vscode": "^1.35.0"
@@ -54,6 +54,7 @@
     "ms-python.debugpy",
     "ms-python.vscode-pylance",
     "ms-python.autopep8",
-    "VisualStudioExptTeam.vscodeintellicode"
+    "VisualStudioExptTeam.vscodeintellicode",
+    "magicstack.Chromodynamics"
   ]
 }
