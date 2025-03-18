@@ -54,6 +54,7 @@
     "ms-python.debugpy",
     "ms-python.vscode-pylance",
     "ms-python.autopep8",
+    "ms-python.isort",
     "VisualStudioExptTeam.vscodeintellicode",
     "magicstack.Chromodynamics"
   ]
