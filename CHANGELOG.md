@@ -7,8 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Removed
+
+* Pylint, By Microsoft.
+
 ### Added
 
+* Flake8, By Microsoft.
 * isort, By Microsoft.
 
 ## [1.0.2] - 2025-03-15
