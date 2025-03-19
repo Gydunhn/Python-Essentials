@@ -40,7 +40,7 @@
     "Gydunhn",
     "Elite"
   ],
-  "version": "1.0.2",
+  "version": "1.1.0",
   "publisher": "Gydunhn",
   "engines": {
     "vscode": "^1.35.0"
@@ -49,11 +49,12 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "ms-python.pylint",
+    "ms-python.flake8",
     "ms-python.python",
     "ms-python.debugpy",
     "ms-python.vscode-pylance",
     "ms-python.autopep8",
+    "ms-python.isort",
     "VisualStudioExptTeam.vscodeintellicode",
     "magicstack.Chromodynamics"
   ]
